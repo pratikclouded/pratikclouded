@@ -7,20 +7,20 @@ color=38BDF8&
 center=true&
 vCenter=true&
 width=700&
-lines=Hi+there%2C+I'm+Pratik+👋;Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Cloud+%7C+ETL;Turning+Data+into+Insights" />
+lines=Hi+there%2C+I'm+Pratik+👋;Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Cloud+%7C+ETL;Building+Scalable+Data+Pipelines" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💡 I am an **aspiring Data Engineer** passionate about building scalable data pipelines,  
-automating workflows, and transforming raw data into meaningful insights.
+I am an **aspiring Data Engineer** with a strong foundation in **data analytics, databases, and backend development**.  
+I enjoy building reliable data pipelines, optimizing data flows, and transforming raw data into actionable insights.
 
 - 🎓 BCA Student  
-- 📊 Strong in **Data Analytics & Visualization**
-- 🔁 Transitioning from **Data Analyst → Data Engineer**
-- ☁️ Learning **Cloud & Big Data tools**
+- 📊 Background in **Data Analysis & Visualization**
+- 🔁 Moving towards **Data Engineering & Cloud**
+- ☁️ Currently learning **AWS & ETL pipelines**
 
 ---
 
@@ -32,7 +32,7 @@ automating workflows, and transforming raw data into meaningful insights.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratikclouded&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -44,26 +44,30 @@ automating workflows, and transforming raw data into meaningful insights.
 
 ---
 
-## 📈 Top Languages
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikclouded&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikclouded&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🧾 Profile Summary
 
-![Snake animation](https://github.com/pratikclouded/pratikclouded/blob/output/github-contribution-grid-snake.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikclouded&theme=tokyonight)
 
 ---
 
-## 📌 Currently Learning
+## 🏆 Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pratikclouded&theme=tokyonight&no-frame=true)
+
+---
+
+## 📌 What I'm Currently Learning
 
 - 🔄 Data Engineering Fundamentals  
-- ⚙️ ETL Pipelines  
+- ⚙️ ETL & Data Pipelines  
 - ☁️ AWS (S3, EC2, IAM)  
-- 🐳 Docker  
+- 🐳 Docker & Containers  
 - 📦 Big Data Basics  
 
 ---
@@ -81,4 +85,4 @@ automating workflows, and transforming raw data into meaningful insights.
 
 ---
 
-⭐ *“Data is the new oil, engineering is the refinery.”*
+⭐ *“Data engineering is not just about data — it’s about reliability, scalability, and impact.”*
