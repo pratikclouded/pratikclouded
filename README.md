@@ -7,12 +7,13 @@
   <br/>
 </p>
 
-- 🎓 BCA Student  
-- 📊 Background in **Data Analysis & Visualization || Full Stack Python Development**
-- 🔁 Moving towards **Data Engineering & Cloud**
-- ☁️ Currently learning **AWS & ETL pipelines**
+<p align="center" >
+  <samp>
+    🎓 BCA Student 📊 Background in Data Analysis & Visualization || Full Stack Python Development ⚙️ 🔁 Moving towards Data Engineering & Cloud ☁️ Currently learning AWS & ETL pipelines
+</samp>
+  <br/>
+</p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -74,8 +75,10 @@
 </p>
 
 ---
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
-Show some ❤️ by starring some of the repositories!
-
-⭐ *“Data engineering is not just about data — it’s about reliability, scalability, and impact.”*
+<p align="center">
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 <br>
+Show some ❤️ by starring some of the repositories! <br>
+*“Data engineering is not just about data — it’s about reliability, scalability, and impact.”*
+</p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
