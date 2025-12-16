@@ -1,21 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-size=28&
-pause=1000&
-color=38BDF8&
-center=true&
-vCenter=true&
-width=700&
-lines=Hi+there%2C+I'm+Pratik+👋;Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Cloud+%7C+ETL;Building+Scalable+Data+Pipelines" />
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=110&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pratik+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
+
+<p align="center" >
+  <samp>
+    Hey, My name is <em>Pratik</em> and I am an aspiring Data Engineer 📊 who is deeply committed to building reliable and scalable data systems. I focus on designing efficient data pipelines, managing databases, and transforming raw data into meaningful insights. My growing expertise in Python, SQL, cloud platforms, and ETL processes enables me to deliver data-driven solutions with impact. I stay dedicated to continuously improving my skills by learning modern data engineering tools and best practices, and I’m always exploring better ways to optimize data workflows and data reliability. 🚀
+  </samp>
+  <br/>
 </p>
-
----
-
-## 🚀 About Me
-
-I am an **aspiring Data Engineer** with a strong foundation in **data analytics, databases, and backend development**.  
-I enjoy building reliable data pipelines, optimizing data flows, and transforming raw data into actionable insights.
 
 - 🎓 BCA Student  
 - 📊 Background in **Data Analysis & Visualization || Full Stack Python Development**
