@@ -56,11 +56,12 @@ I enjoy building reliable data pipelines, optimizing data flows, and transformin
 
 ---
 
-## 🏆 Achievements
+<--## 🏆 Achievements
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pratikclouded&theme=tokyonight&no-frame=true)
 
 ---
+-->
 
 ## 📌 What I'm Currently Learning
 
