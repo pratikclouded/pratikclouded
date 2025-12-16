@@ -27,7 +27,7 @@ I enjoy building reliable data pipelines, optimizing data flows, and transformin
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,django,mysql,postgres,git,github,aws,docker,powerbi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,django,mysql,postgres,git,github,aws,docker,powerbi,&theme=dark" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ I enjoy building reliable data pipelines, optimizing data flows, and transformin
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://[www.linkedin.com](https://www.linkedin.com/in/pratik-bhul-643695306/)">
+  <a href="https://www.linkedin.com/in/pratik-bhul-643695306/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:bhulpratik3@gmail.com">
