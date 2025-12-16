@@ -18,7 +18,7 @@ I am an **aspiring Data Engineer** with a strong foundation in **data analytics,
 I enjoy building reliable data pipelines, optimizing data flows, and transforming raw data into actionable insights.
 
 - 🎓 BCA Student  
-- 📊 Background in **Data Analysis & Visualization**
+- 📊 Background in **Data Analysis & Visualization || Full Stack Python Development**
 - 🔁 Moving towards **Data Engineering & Cloud**
 - ☁️ Currently learning **AWS & ETL pipelines**
 
@@ -27,7 +27,7 @@ I enjoy building reliable data pipelines, optimizing data flows, and transformin
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,django,mysql,postgres,git,github,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,django,mysql,postgres,git,github,aws,docker,powerbi&theme=dark" />
 </p>
 
 ---
@@ -56,12 +56,11 @@ I enjoy building reliable data pipelines, optimizing data flows, and transformin
 
 ---
 
-<--## 🏆 Achievements
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pratikclouded&theme=tokyonight&no-frame=true)
-
----
+<!--
+## 🏆 Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pratikclouded)
 -->
+
 
 ## 📌 What I'm Currently Learning
 
@@ -76,14 +75,17 @@ I enjoy building reliable data pipelines, optimizing data flows, and transformin
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://[www.linkedin.com](https://www.linkedin.com/in/pratik-bhul-643695306/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:bhulpratik3@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+
+Show some ❤️ by starring some of the repositories!
 
 ⭐ *“Data engineering is not just about data — it’s about reliability, scalability, and impact.”*
