@@ -6,7 +6,7 @@ pause=1000&
 color=38BDF8&
 center=true&
 vCenter=true&
-width=600&
+width=700&
 lines=Hi+there%2C+I'm+Pratik+👋;Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Cloud+%7C+ETL;Turning+Data+into+Insights" />
 </p>
 
@@ -18,7 +18,7 @@ lines=Hi+there%2C+I'm+Pratik+👋;Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Clou
 automating workflows, and transforming raw data into meaningful insights.
 
 - 🎓 BCA Student  
-- 🧠 Strong in **Data Analytics & Visualization**
+- 📊 Strong in **Data Analytics & Visualization**
 - 🔁 Transitioning from **Data Analyst → Data Engineer**
 - ☁️ Learning **Cloud & Big Data tools**
 
@@ -35,11 +35,11 @@ automating workflows, and transforming raw data into meaningful insights.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikclouded&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pratikclouded&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -47,24 +47,24 @@ automating workflows, and transforming raw data into meaningful insights.
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikclouded&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (Animated)
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pratikclouded/pratikclouded/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📌 What I'm Currently Learning
+## 📌 Currently Learning
 
-- 🧩 Data Engineering Fundamentals  
-- 🔄 ETL Pipelines  
+- 🔄 Data Engineering Fundamentals  
+- ⚙️ ETL Pipelines  
 - ☁️ AWS (S3, EC2, IAM)  
 - 🐳 Docker  
-- 📦 Big Data Basics
+- 📦 Big Data Basics  
 
 ---
 
@@ -81,4 +81,4 @@ automating workflows, and transforming raw data into meaningful insights.
 
 ---
 
-⭐ *“Data is the new oil, but engineering is the refinery.”*
+⭐ *“Data is the new oil, engineering is the refinery.”*
