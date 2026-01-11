@@ -28,9 +28,9 @@
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikclouded&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikclouded&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=pratikclouded&theme=tokyonight&hide_border=true)
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pratikclouded&theme=tokyonight&hide_border=true" />
@@ -46,7 +46,7 @@
 
 ## 🧾 Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikclouded&theme=tokyonight" />
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikclouded&theme=tokyonight)
 
 ---
 
