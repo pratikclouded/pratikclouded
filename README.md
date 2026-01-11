@@ -40,8 +40,12 @@
 
 ---
 
-## 🧾 Profile Summary
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikclouded&theme=tokyonight&token=YOUR_GITHUB_TOKEN)
+<!-- <-- ## 🧾 Profile Summary
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikclouded&theme=tokyonight" 
+  alt="Pratik GitHub Profile Summary"
+/> -->
+
 
 
 ---
